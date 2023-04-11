@@ -29,7 +29,7 @@ Once you have installed My Awesome React App on your local machine, you can star
 
 1. 🌐 Open your web browser and go to http://localhost:3000/
 2. 🔑 Login using your credentials or create a new account.
-3. 💻 Start using the app to do X, Y, and Z.
+3. 💻 Start using the app to discover, search, and book your favourite vacation rental that fits your needs, wether it's in mountain cabin, beach house or city apartment.
 
 ## 🤝 Contributing
 If you are interested in contributing to My Awesome React App, please follow these guidelines:
